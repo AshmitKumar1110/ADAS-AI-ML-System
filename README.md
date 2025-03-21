@@ -84,7 +84,9 @@ Want to make vehicles **smarter & safer**? Join us! 🚀
 
 ---
 ## 🛡️ License
+This project is **open-source** under the **[MIT License](https://opensource.org/licenses/MIT)**.
 This project is **open-source** under the **MIT License**. 
+
 
 ⚡ **Transforming Roads with AI-Powered Safety!** ⚡
 
